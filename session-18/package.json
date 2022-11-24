@@ -1,0 +1,13 @@
+{
+  "name": "session-18",
+  "version": "1.0.0",
+  "description": "## Ejercicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
